@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @LucasLassiter
-- 👀 I’m interested in pretty much everything with computers, and Onewheels
-- 🌱 I’m currently learning Django
-- 💞️ I’m looking to collaborate on Newpipe, it seems really interesting, but honestly I need help
-- 📫 How to reach me, idk if you can dm github accounts but if you can, that'd work
+- 👀 I’m interested in backend Web Development and Native Android Development.
+- 🌱 I’m currently learning Kotlin Multiplatform, and Golang
+- 📫 You can reach me at my email lucaslassiter@protonmail.com
 
 <!---
 LucasLassiter/LucasLassiter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
